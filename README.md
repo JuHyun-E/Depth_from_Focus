@@ -1,5 +1,4 @@
-# Computer_Vision
-## Depth from Focus
+# Depth from Focus
 [Dataset](https://github.com/JuHyun-E/Computer_Vision/tree/master/data)
 ***
 TASK1: Image alignment
